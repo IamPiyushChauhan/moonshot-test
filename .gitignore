@@ -1,0 +1,13 @@
+# Ignore node_modules in FrontEnd and BackEnd folders
+email/node_modules/
+email/.DS_Store
+
+visualization/node_modules/
+visualization/client/node_modules/
+visualization/server/node_modules/
+visualization/server/.env
+visualization/server/.DS_Store
+
+
+# Ignore .DS_Store files created by macOS
+.DS_Store
